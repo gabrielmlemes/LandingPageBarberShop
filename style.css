@@ -304,6 +304,10 @@ i {
   color: #FFF;
 }
 
+.footer p a {
+  color: #FFF;
+}
+
 .btn-whatsapp {
   position: fixed;
   bottom: 14px;
