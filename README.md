@@ -3,7 +3,8 @@
 
 # Dev Barber
 
-🖥️ Simples, moderno, fácil e responsivo!
+* Simples, moderno, fácil e responsivo!
+* Deploy do projeto: https://my-barber-shop.vercel.app/ 🖥️
 
 ## 🔥 Porque essa Landing Page é diferenciada?
 
