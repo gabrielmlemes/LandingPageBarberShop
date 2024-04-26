@@ -17,7 +17,7 @@
 Essa aplicação não exige nenhum tipo de configuração prévia para poder usá-la.
 
 ```
-É só baixar 😉
+É só baixar!
 ```
 ## 🛠️ Tecnologias usadas:
 
@@ -26,7 +26,9 @@ Essa aplicação não exige nenhum tipo de configuração prévia para poder us�
 * ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 * ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-(Link para pegar as badges: https://github.com/Ileriayo/markdown-badges)
+## Links que podem ser úteis para você utilziar em seus projetos 😉:
+(Link para pegar as badges do Readme: https://github.com/Ileriayo/markdown-badges)
+(Link da lib AOS - EFEITOS DE SCROLL: https://michalsnik.github.io/aos/)
 
 ## 📄 Licença
 
