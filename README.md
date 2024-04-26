@@ -27,8 +27,8 @@ Essa aplicação não exige nenhum tipo de configuração prévia para poder us�
 * ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 ## Links que podem ser úteis para você utilziar em seus projetos 😉:
-(Link para pegar as badges do Readme: https://github.com/Ileriayo/markdown-badges)
-(Link da lib AOS - EFEITOS DE SCROLL: https://michalsnik.github.io/aos/)
+* (Link para pegar as badges do Readme: https://github.com/Ileriayo/markdown-badges)
+* (Link da lib AOS - EFEITOS DE SCROLL: https://michalsnik.github.io/aos/)
 
 ## 📄 Licença
 
